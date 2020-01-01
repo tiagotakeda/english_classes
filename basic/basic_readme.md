@@ -101,7 +101,7 @@ To make a negative sentence in English we normally use **Don't** or **Doesn't** 
 
 **NOTE 1:** The letter **-S** at the end of the verb (because of the third person) disappears in the negative sentence.
 
-**NOTe 2:** DON'T and DOESN'T are just abbreviations for DO NOT and DOES NOT, respectively.
+**NOTE 2:** DON'T and DOESN'T are just abbreviations for DO NOT and DOES NOT, respectively.
 
 ### Verb To Be
 
