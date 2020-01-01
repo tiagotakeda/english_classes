@@ -3,7 +3,8 @@
 ### Subject Pronouns
 
 <img 
-    src="https://www.github.com/tiagotakeda/english_classes/basic/images/SubPronouns.jpg"
+    src="images/SubPronouns.jpg"
+    raw=true
     alt="Subject Pronouns"
     style="margin-right: 10px;" 
 />
