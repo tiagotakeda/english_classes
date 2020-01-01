@@ -35,7 +35,7 @@ We use the Present Tense:
     * The Queen of England **lives** in Buckingham Palace.
     * They **speak** English at work.
 
-#### Infinitive Form
+#### Base from vs Infinitive Form
 
 When the verb is not conjugated in any form we indicate that in English by using the work **TO** before the verb. For example:
 
@@ -43,9 +43,27 @@ When the verb is not conjugated in any form we indicate that in English by using
 * To study
 * To play
 
+If we are **only** talking about the verb, we can use its *Base Form*, for example:
+
+* work
+* study
+* play
+
 #### Conjugation and Spelling
 
-We 
+We form the *Present Tense* simply by using the base form of the verb
+
+Un general, in the third person we add **'S'** in the end of the verb.
+
+| <center>Subject</center> | <center>Verb</center> | <center>Rest</center> of the sentence |
+| ------ | ------ | ------ |
+| <center>I</center> | <center>speak</center> | <center>english at home</center> |
+| <center>You</center> | <center>learn</center> | <center>english at home |
+| <center>We</center> | <center>speak</center> | <center>english at home</center> |
+| <center>They</center> | <center>learn</center> | <center>english at home</center> |
+| <center>He</center> | <center>speaks</center> | <center>english at home</center> |
+| <center>She</center> | <center>learns</center> | <center>english at home</center> |
+| <center>It</center> | <center>speaks</center> | <center>english at home</center> |
 
 ### Verb To Be
 
