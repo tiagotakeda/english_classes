@@ -65,6 +65,44 @@ Un general, in the third person we add **'S'** in the end of the verb.
 | <center>She</center> | <center>learns</center> | <center>english at home</center> |
 | <center>It</center> | <center>speaks</center> | <center>english at home</center> |
 
+The spelling of the verb in the third person  differs depending on the ending of that verb:
+
+1. For verbs that end in **-O, -CH, -SH, -SS, -X** or **-Z** we add **-ES** in the third person.
+    * go - goes
+    * catch - catches
+    * wash - washes
+    * kiss - kisses
+    * fix - fixes
+    * buzz - buzzes
+
+2. For verbs that end int a **consonant + Y**, we remove the **Y** and add **-IES**.
+    * marry - marries
+    * study - studies
+    * carry - carries
+    * worry - worries
+
+**NOTE:** For verbs that end in a **vowel + Y**, we just add **-S**.
+* play - plays
+* enjoy - enjoys
+* say - says
+
+### Negatives Sentences
+
+To make a negative sentence in English we normally use **Don't** or **Doesn't** with all verbs EXCEPT **To Be** and **Modal verbs** (can, might, should, etc.).
+
+1. For **I, You, We** and **They** subject pronouns.
+    * Affirmative: You speak French.
+    * Negative: You **don't** speak French.
+
+
+2. For **He, She, It** subject pronouns.
+    * Affirmative: He speaks German.
+    * Negative: He **doesn't** speak German.
+
+**NOTE 1:** The letter **-S** at the end of the verb (because of the third person) disappears in the negative sentence.
+
+**NOTe 2:** DON'T and DOESN'T are just abbreviations for DO NOT and DOES NOT, respectively.
+
 ### Verb To Be
 
 
