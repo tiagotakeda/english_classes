@@ -131,30 +131,20 @@ To make a question in the *Simple Present Tense* we usually use **Do** or **Does
 <table>
     <tbody>
         <tr>
-            <th>Do / Does
-                </th>
-            <th>Subject
-                </th>
-            <th>Verb
-                </th>
-            <th>Rest of the Sentence
-                </th>
+            <th>Do / Does</th>
+            <th>Subject</th>
+            <th>Verb</th>
+            <th>Rest of the Sentence</th>
         </tr>
         <tr>
-            <td>Do
-                </td>
-            <td>I / You / We / They
-                </td>
-            <td rowspan="2"><center>have / need<br>want</center>
-                </td>
-            <td rowspan="2"><center>a new bike?</center>
-                </td>
+            <td>Do</td>
+            <td>I / You / We / They</td>
+            <td rowspan="2"><center>have / need<br>want</center></td>
+            <td rowspan="2"><center>a new bike?</center></td>
         </tr>
         <tr>
-            <td>Does
-                </td>
-            <td>He / She / It
-                </td>
+            <td>Does</td>
+            <td>He / She / It</td>
         </tr>
     </tbody>
 </table>
@@ -174,74 +164,86 @@ Questions that use Do/Does it is possible to give short answers:
 <table>
     <tbody>
         <tr>
-            <th>Sample Questions
-                </th>
-            <th><center>Short Answer<br>(Affirmative)</center>
-                </th>
-            <th>Short Answer<br>(Negative)
-                </th>
+            <th>Sample Questions</th>
+            <th><center>Short Answer<br>(Affirmative)</center></th>
+            <th>Short Answer<br>(Negative)</th>
         </tr>
         <tr>
-            <td>Do you like chocolate?
-                </td>
-            <td>Yes, I do.
-                </td>
-            <td>No, I don't
-                </td>
+            <td>Do you like chocolate?</td>
+            <td>Yes, I do.</td>
+            <td>No, I don't.</td>
         </tr>
         <tr>
-            <td>Do I need a pencil
-                </td>
-            <td>Yes, you do.
-                </td>
-            <td>No, you don't.
-                </td>
+            <td>Do I need a pencil</td>
+            <td>Yes, you do.</td>
+            <td>No, you don't.</td>
         </tr>
         <tr>
-            <td>Do you both like chocolate?
-                </td>
-            <td>Yes, we do.
-                </td>
-            <td>No, we don't.
-                </td>
+            <td>Do you both like chocolate?</td>
+            <td>Yes, we do.</td>
+            <td>No, we don't.</td>
         </tr>
         <tr>
-            <td>Do they like chocolate?
-                </td>
-            <td>Yes, they do.
-                </td>
-            <td>No, they don't.
-                </td>
+            <td>Do they like chocolate?</td>
+            <td>Yes, they do.</td>
+            <td>No, they don't.</td>
         </tr>
         <tr>
-            <td>Does he like chocolate?
-                </td>
-            <td>Yes, he does.
-                </td>
-            <td>No, he doesn't.
-                </td>
+            <td>Does he like chocolate?</td>
+            <td>Yes, he does.</td>
+            <td>No, he doesn't.</td>
         </tr>
         <tr>
-            <td>Does she like chocolate?
-                </td>
-            <td>Yes, she does.
-                </td>
-            <td>No, she doesn't.
-                </td>
+            <td>Does she like chocolate?</td>
+            <td>Yes, she does.</td>
+            <td>No, she doesn't.</td>
         </tr>
         <tr>
-            <td>Does it have four wheels?
-                </td>
-            <td>Yes, it does.
-                </td>
-            <td>No, it doesn't.
-                </td>
+            <td>Does it have four wheels?</td>
+            <td>Yes, it does.</td>
+            <td>No, it doesn't.</td>
         </tr>
     </tbody>
 </table>
 
 ### Verb To Be
 
+<table>
+    <tbody>
+        <tr>
+            <th><center>Subject</center></th>
+            <th><center>To Be</center></th>
+        </tr>
+        <tr>
+            <td><center>I</center></td>
+            <td><center>am</center></td>
+        </tr>
+        <tr>
+            <td><center>You</center></td>
+            <td><center>are</center></td>
+        </tr>
+        <tr>
+            <td><center>He</center></td>
+            <td><center>is</center></td>
+        </tr>
+        <tr>
+            <td><center>She</center></td>
+            <td><center>is</center></td>
+        </tr>
+        <tr>
+            <td><center>It</center></td>
+            <td><center>is</center></td>
+        </tr>
+        <tr>
+            <td><center>We</center></td>
+            <td><center>are</center></td>
+        </tr>
+        <tr>
+            <td><center>They</center></td>
+            <td><center>are</center></td>
+        </tr>
+    </tbody>
+</table>
 
 
 # Useful Links
