@@ -145,7 +145,7 @@ To make a question in the *Simple Present Tense* we usually use **Do** or **Does
                 </td>
             <td>I / You / We / They
                 </td>
-            <td rowspan="2"><center>have / need<br>want1</center>
+            <td rowspan="2"><center>have / need<br>want</center>
                 </td>
             <td rowspan="2"><center>a new bike?</center>
                 </td>
@@ -154,6 +154,87 @@ To make a question in the *Simple Present Tense* we usually use **Do** or **Does
             <td>Does
                 </td>
             <td>He / She / It
+                </td>
+        </tr>
+    </tbody>
+</table>
+
+**More Examples:**
+* **Do** you need a dictionary?
+* **Does** Mary need a dictionary?
+* **Do** we have a meeting now?
+* **Does** it rain a lot in winter?
+* **Do** they want to go to the party?
+* **Does** he like pizza? 
+
+### Short Answers
+
+Questions that use Do/Does it is possible to give short answers:
+
+<table>
+    <tbody>
+        <tr>
+            <th>Sample Questions
+                </th>
+            <th><center>Short Answer<br>(Affirmative)</center>
+                </th>
+            <th>Short Answer<br>(Negative)
+                </th>
+        </tr>
+        <tr>
+            <td>Do you like chocolate?
+                </td>
+            <td>Yes, I do.
+                </td>
+            <td>No, I don't
+                </td>
+        </tr>
+        <tr>
+            <td>Do I need a pencil
+                </td>
+            <td>Yes, you do.
+                </td>
+            <td>No, you don't.
+                </td>
+        </tr>
+        <tr>
+            <td>Do you both like chocolate?
+                </td>
+            <td>Yes, we do.
+                </td>
+            <td>No, we don't.
+                </td>
+        </tr>
+        <tr>
+            <td>Do they like chocolate?
+                </td>
+            <td>Yes, they do.
+                </td>
+            <td>No, they don't.
+                </td>
+        </tr>
+        <tr>
+            <td>Does he like chocolate?
+                </td>
+            <td>Yes, he does.
+                </td>
+            <td>No, he doesn't.
+                </td>
+        </tr>
+        <tr>
+            <td>Does she like chocolate?
+                </td>
+            <td>Yes, she does.
+                </td>
+            <td>No, she doesn't.
+                </td>
+        </tr>
+        <tr>
+            <td>Does it have four wheels?
+                </td>
+            <td>Yes, it does.
+                </td>
+            <td>No, it doesn't.
                 </td>
         </tr>
     </tbody>
