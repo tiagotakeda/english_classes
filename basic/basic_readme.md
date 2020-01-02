@@ -57,13 +57,8 @@ Un general, in the third person we add **'S'** in the end of the verb.
 
 | <center>Subject</center> | <center>Verb</center> | <center>Rest</center> of the sentence |
 | ------ | ------ | ------ |
-| <center>I</center> | <center>speak</center> | <center>english at home</center> |
-| <center>You</center> | <center>learn</center> | <center>english at home |
-| <center>We</center> | <center>speak</center> | <center>english at home</center> |
-| <center>They</center> | <center>learn</center> | <center>english at home</center> |
-| <center>He</center> | <center>speaks</center> | <center>english at home</center> |
-| <center>She</center> | <center>learns</center> | <center>english at home</center> |
-| <center>It</center> | <center>speaks</center> | <center>english at home</center> |
+| <center>I / You / We / They</center> | <center>speak</center> | <center>english at home</center> |
+| <center>He / She / It</center> | <center>speaks</center> | <center>english at home</center> |
 
 The spelling of the verb in the third person  differs depending on the ending of that verb:
 
@@ -86,7 +81,7 @@ The spelling of the verb in the third person  differs depending on the ending of
 * enjoy - enjoys
 * say - says
 
-### Negatives Sentences
+### Negative Form
 
 To make a negative sentence in English we normally use **Don't** or **Doesn't** with all verbs EXCEPT **To Be** and **Modal verbs** (can, might, should, etc.).
 
@@ -99,9 +94,70 @@ To make a negative sentence in English we normally use **Don't** or **Doesn't** 
     * Affirmative: He speaks German.
     * Negative: He **doesn't** speak German.
 
-**NOTE 1:** The letter **-S** at the end of the verb (because of the third person) disappears in the negative sentence.
+**NOTE:** The letter **-S** at the end of the verb (because of the third person) disappears in the negative form.
 
-**NOTE 2:** DON'T and DOESN'T are just abbreviations for DO NOT and DOES NOT, respectively.
+
+**More Examples**:
+* You **don't** speak Arabic.
+* John **doesn't** speak Italian.
+* We **don't** have time for a rest.
+* It **doesn't** move.
+* They **don't** want to go to the party.
+* She **doesn't** like fish.
+
+##### Negative Contractions
+
+DON'T = DO NOT
+DOESN'T = DOES NOT
+
+I **don't** like meat = I **do not** like meat.
+
+### Question Form
+
+To make a question in the *Simple Present Tense* we usually use **Do** or **Does**, it has no translation in portuguese, but it is essential to show that we are making a question.
+
+1. We will ALWAYS use **Do** when the subject is **I**, **You**, **We** or **They**.
+
+    * Affirmative: You speak English.
+    * Question: **Do** you speak English?
+
+2. We will ALWAYS use **Does** when the subject is **He**, **She** or **It**.
+
+    * Affirmative: She speaks French.
+    * Question: Does she speak french?
+
+**NOTE:** The letter **-S** at the end of the verb (because of the third person) disappears in the question form.
+
+<table>
+    <tbody>
+        <tr>
+            <th>Do / Does
+                </th>
+            <th>Subject
+                </th>
+            <th>Verb
+                </th>
+            <th>Rest of the Sentence
+                </th>
+        </tr>
+        <tr>
+            <td>Do
+                </td>
+            <td>I / You / We / They
+                </td>
+            <td rowspan="2"><center>have / need<br>want1</center>
+                </td>
+            <td rowspan="2"><center>a new bike?</center>
+                </td>
+        </tr>
+        <tr>
+            <td>Does
+                </td>
+            <td>He / She / It
+                </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Verb To Be
 
