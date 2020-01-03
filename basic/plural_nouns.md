@@ -1,6 +1,4 @@
-# Grammar
-
-### Plural Nouns
+# Plurals
 
 In general it very simple to find the plural of a noun by adding -S to the noun. For Example:
 
@@ -229,7 +227,7 @@ In general it very simple to find the plural of a noun by adding -S to the noun.
 
 **NOTE:** Sometimes you will hear the word *fishes* (especially in songs) though it is grammatically incorrect.
 
-## Plurals Grammar Summary
+## Summary
 
 <img
     src="images/plural_charts.png"
