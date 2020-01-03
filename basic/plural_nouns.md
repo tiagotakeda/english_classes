@@ -234,3 +234,63 @@ In general it very simple to find the plural of a noun by adding -S to the noun.
     raw=true
     alt="Plural Chart"
 />
+
+#### Advanced Rules
+
+The next two rules are hard to get used to even for native speakers! So I would not recommend to learn them all at once (the 8 rules). Get used to the first 6 rules and later try these two last ones.
+
+7. If the noun ends in **-IS**, we change it to **-ES**:
+
+<table>
+    <tbody>
+        <tr>
+            <th>Singular</th>
+            <th>Plural</th>
+        </tr>
+        <tr>
+            <td>analysis</td>
+            <td>analyses</td>
+        </tr>
+        <tr>
+            <td>basis</td>
+            <td>bases</td>
+        </tr>
+        <tr>
+            <td>crisis</td>
+            <td>crises</td>
+        </tr>
+    </tbody>
+</table>
+
+Word that end in  **-IS** usually have a Greek root.
+
+8. If the noun ends in **-US**, we change it to **-I**:
+
+<table>
+    <tbody>
+        <tr>
+            <th>Singular</th>
+            <th>Plural</th>
+        </tr>
+        <tr>
+            <td>cactus</td>
+            <td>cacti</td>
+        </tr>
+        <tr>
+            <td>fungus</td>
+            <td>fungi</td>
+        </tr>
+        <tr>
+            <td>stimulus</td>
+            <td>stimuli</td>
+        </tr>
+        <tr>
+            <td>syllabus</td>
+            <td>syllabi</td>
+        </tr>
+    </tbody>
+</table>
+
+Word that end in  **-US** usually have a Latin root.
+
+**EXCEPTIONS:** octupus - octupuses (Greek root, not Latin), walrus - walruses.
