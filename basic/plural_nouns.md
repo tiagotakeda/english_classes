@@ -229,6 +229,8 @@ In general it very simple to find the plural of a noun by adding -S to the noun.
 
 **NOTE:** Sometimes you will hear the word *fishes* (especially in songs) though it is grammatically incorrect.
 
+## Grammar Summary
+
 <img
     src="images/plural_charts.png"
     raw=true
