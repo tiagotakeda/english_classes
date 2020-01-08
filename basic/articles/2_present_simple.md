@@ -2,11 +2,11 @@
 
 ### Subject Pronouns
 
-<img 
+<center><img 
     src="images/SubPronouns.jpg"
     raw=true
     alt="Subject Pronouns"
-/>
+/></center>
 
 ### Simple Present Tense
 
