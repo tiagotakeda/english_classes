@@ -16,7 +16,7 @@
 * an umbrella
 * an hour (because the H is silent)*
 
-<img src="images/articles_indef.jpg" 
+<img src="images/articles_indef.png" 
      raw=true 
      alt="Indefinite Articles"
 />

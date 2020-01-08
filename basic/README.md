@@ -2,7 +2,7 @@
 
 ## Grammar Contents
 
-1. Articles (<a href="https://www.grammar.cl/Notes/Articles.htm">reference</a>)
+1. Articles
 2. Present Simple Tense
 3. Verb To Be (Present) (<a href="https://www.grammar.cl/Present/To_Be.htm">reference</a>)
 4. Plural Nouns
