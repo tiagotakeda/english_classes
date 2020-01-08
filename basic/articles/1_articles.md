@@ -16,10 +16,9 @@
 * an umbrella
 * an hour (because the H is silent)*
 
-<img
-    src="images/articles_indef.png"
-    raw=true
-    alt="Indefinite Articles"
+<img src="images/articles_indef.jpg" 
+     raw=true 
+     alt="Indefinite Articles"
 />
 
 #### We use A/AN with:
