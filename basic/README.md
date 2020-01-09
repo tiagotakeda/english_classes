@@ -4,7 +4,7 @@
 
 1. Articles
 2. Present Simple Tense
-3. Verb To Be (Present) (<a href="https://www.grammar.cl/Present/To_Be.htm">reference</a>)
+3. Verb To Be (Present)
 4. Plural Nouns
 5. Present Continuous (Progressive) (<a href="https://www.grammar.cl/Notes/Present_Tense_Progressive_Tense.htm">reference</a>)
 6. Modal Verb - Would (<a href="https://www.grammar.cl/english/would.htm">reference</a>)
