@@ -23,3 +23,9 @@ We use *Present Continuous* basically for actions that are happening at this mom
 * Alfredo is studying a lot for his exam.
 * I'm reading a great book. <code>(Not necessary right at this moment)</code>
 * We are planning a trip to Jamaica.
+
+**NOTE:** 
+
+Another difference is that there are some verbs in English that we don't use in the progressive tense. These include:
+
+Belong - Cost - Hate - Have (possession) - Hear - Know - Like - Love - Need - Own - Remember - Seem - Smell - Understand - Want
