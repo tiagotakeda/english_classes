@@ -2,13 +2,6 @@
 
 ### Verb To Be (Present)
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-
 <div style="float: left;margin-right:10px">
     <table>
         <tbody>
@@ -55,7 +48,7 @@ table, th, td {
     <table>
         <tbody>
             <tr>
-                <center><th colspan="2">Contractions</th></center>
+                <center><th colspan="2">Negative</th></center>
             </tr>
             <tr>
                 <th><center>Subject</center></th>
@@ -88,6 +81,48 @@ table, th, td {
             <tr>
                 <td><center>They</center></td>
                 <td><center>are not</center></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div style="float: left">
+    <table>
+        <tbody>
+            <tr>
+                <center><th colspan="2">Contractions</th></center>
+            </tr>
+            <tr>
+                <th><center>Subject</center></th>
+                <th><center>To Be</center></th>
+            </tr>
+            <tr>
+                <td><center>I</center></td>
+                <td><center>I'm</center></td>
+            </tr>
+            <tr>
+                <td><center>You</center></td>
+                <td><center>You're</center></td>
+            </tr>
+            <tr>
+                <td><center>He</center></td>
+                <td><center>He's</center></td>
+            </tr>
+            <tr>
+                <td><center>She</center></td>
+                <td><center>She's</center></td>
+            </tr>
+            <tr>
+                <td><center>It</center></td>
+                <td><center>It's</center></td>
+            </tr>
+            <tr>
+                <td><center>We</center></td>
+                <td><center>We're</center></td>
+            </tr>
+            <tr>
+                <td><center>They</center></td>
+                <td><center>They're</center></td>
             </tr>
         </tbody>
     </table>
