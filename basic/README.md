@@ -6,7 +6,7 @@
 2. Present Simple Tense
 3. Verb To Be (Present)
 4. Plural Nouns
-5. Present Continuous (Progressive) (<a href="https://www.grammar.cl/Notes/Present_Tense_Progressive_Tense.htm">reference</a>)
+5. Present Continuous (Progressive)
 6. Modal Verb - Would (<a href="https://www.grammar.cl/english/would.htm">reference</a>)
 7. There To Be (<a href="https://www.grammar.cl/Present/ThereIsThereAre.htm">reference</a>)
 8. Demonstrative Pronouns (<a href="https://www.grammar.cl/Notes/This_That_These_Those.htm">reference</a>)
