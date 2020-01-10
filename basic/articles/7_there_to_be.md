@@ -15,7 +15,7 @@ We use there is and there are to say that something exists.
 
 <br/>
 
-2. We also use There is with uncountable nouns:
+2. We also use `there is` with uncountable nouns:
 
   * `There is` milk in the fridge.
   * `There is` some sugar on the table.
@@ -36,3 +36,18 @@ We use there is and there are to say that something exists.
 
   * There are nine cats on the roof.
   * There are only five weeks until my birthday.
+
+#### Negative Form
+The negative is formed by putting **NOT** after *is* or *are*:
+
+* There is `not` a horse in the field.
+* There are `not` eight children in the school.
+* There is `not` a tree in the garden.
+* There are `not` two elephants in the zoo.
+
+#### Negative contractions
+
+We almost always use contractions when speaking.
+
+* There's not = There isn't
+* There are not = There aren't
