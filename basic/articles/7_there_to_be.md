@@ -6,8 +6,7 @@ We use there is and there are to say that something exists.
 
 #### Positive Sentences
 
-* We use *there is* for **singular** and *there are* for **plural**.
-<br/>
+1. We use *there is* for **singular** and *there are* for **plural**.
 
   * `There is` **one** table in the classroom.
   * `There are` **three** chairs in the classroom.
@@ -16,8 +15,7 @@ We use there is and there are to say that something exists.
 
 <br/>
 
-* We also use There is with uncountable nouns:
-<br/>
+2. We also use There is with uncountable nouns:
 
   * `There is` milk in the fridge.
   * `There is` some sugar on the table.
