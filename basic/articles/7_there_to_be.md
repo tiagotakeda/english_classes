@@ -31,8 +31,7 @@ We use there is and there are to say that something exists.
   * There's only one chocolate left in the box.
 <br/>
 
-* You cannot contract there are.
-<br/>
+**NOTE:** You **cannot** contract `there are`.
 
   * There are nine cats on the roof.
   * There are only five weeks until my birthday.
