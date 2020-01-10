@@ -8,6 +8,7 @@ We use there is and there are to say that something exists.
 
 * We use *there is* for **singular** and *there are* for **plural**.
 <br/>
+
     * `There is` **one** table in the classroom.
     * `There are` **three** chairs in the classroom.
     * `There is` **a** spider in the bath.
@@ -16,6 +17,7 @@ We use there is and there are to say that something exists.
 
 * We also use There is with uncountable nouns:
 <br/>
+
     * `There is` milk in the fridge.
     * `There is` some sugar on the table.
     * `There is` ice cream on your shirt.
@@ -25,11 +27,13 @@ We use there is and there are to say that something exists.
 
 * The contraction of `there is` is `there's`.
 <br/>
+
   * There's a good song on the radio.
   * There's only one chocolate left in the box.
 <br/>
 
 * You cannot contract there are.
 <br/>
+
   * There are nine cats on the roof.
   * There are only five weeks until my birthday.
