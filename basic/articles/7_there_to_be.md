@@ -9,10 +9,11 @@ We use there is and there are to say that something exists.
 * We use *there is* for **singular** and *there are* for **plural**.
 <br/>
 
-    * `There is` **one** table in the classroom.
-    * `There are` **three** chairs in the classroom.
-    * `There is` **a** spider in the bath.
-    * `There are` **many people** at the bus stop.
+  * `There is` **one** table in the classroom.
+  * `There are` **three** chairs in the classroom.
+  * `There is` **a** spider in the bath.
+  * `There are` **many people** at the bus stop.
+
 <br/>
 
 * We also use There is with uncountable nouns:
