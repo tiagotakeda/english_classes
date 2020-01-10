@@ -50,3 +50,17 @@ We almost always use contractions when speaking.
 
 * There's not = There isn't
 * There are not = There aren't
+
+#### Questions
+
+To form a question we place `is` / `are` in front of *there*.
+
+We use `any` with plural questions or those which use uncountable nouns.
+
+We also use *there is / are* in short answers.
+
+* Is there a dog in the supermarket? - No, there isn't.
+* Are there any dogs in the park? - Yes, there are.
+* Is there a security guard in the shop? - Yes, there is.
+* Are there any polar bears in Antarctica? - No, there aren't.
+* Is there any ice-cream in the freezer? - Yes, there is.
