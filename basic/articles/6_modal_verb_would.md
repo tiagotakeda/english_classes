@@ -12,7 +12,7 @@
 
 When someone asks a question to invite you or offer you something using Would, the response can be: 
 * Yes, I would 
-* No, I wouldn't.
+* No, I wouldn't (would not).
 
 ##### Example
 
