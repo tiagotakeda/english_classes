@@ -18,9 +18,9 @@ We use there is and there are to say that something exists.
 * We also use There is with uncountable nouns:
 <br/>
 
-    * `There is` milk in the fridge.
-    * `There is` some sugar on the table.
-    * `There is` ice cream on your shirt.
+  * `There is` milk in the fridge.
+  * `There is` some sugar on the table.
+  * `There is` ice cream on your shirt.
 <br/>
 
 #### Contractions
