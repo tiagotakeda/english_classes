@@ -13,7 +13,7 @@ The **possessive adjectives** in English are as follows:
             <th><center>P. Adjective</center></th>
         </tr>
         <tr>
-            <td><center>I</center></td>
+            <center><td>I</td></center>
             <td><center>My</center></td>
         </tr>
         <tr>
