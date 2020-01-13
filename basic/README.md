@@ -9,8 +9,8 @@
 5. Present Continuous (Progressive)
 6. Modal Verb - Would
 7. There To Be
-8. Demonstrative Pronouns (<a href="https://www.grammar.cl/Notes/This_That_These_Those.htm">reference</a>)
-9. Possessive Adjectives (<a href="https://www.grammar.cl/Notes/Possessive_Adjectives.htm">reference</a>)
+8. Demonstrative Pronouns
+9. Possessive Adjectives
 10. Question Words (<a href="https://www.grammar.cl/Notes/Question_Words.htm">reference</a>)
 11. Object Pronouns (<a href="https://www.grammar.cl/Notes/Object_Pronouns.htm">reference</a>)
 12. Possessive Pronouns (<a href="https://www.grammar.cl/Notes/Possessive_Pronouns.htm">reference</a>)
