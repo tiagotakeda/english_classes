@@ -9,7 +9,7 @@ The **possessive adjectives** in English are as follows:
 <table>
     <tbody>
         <tr>
-            <th><center>Subject</center></th>
+            <center><th>Subject</center></th></center>
             <th><center>P. Adjective</center></th>
         </tr>
         <tr>
