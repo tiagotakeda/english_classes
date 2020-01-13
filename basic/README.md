@@ -12,8 +12,8 @@
 8. Demonstrative Pronouns
 9. Possessive Adjectives
 10. Question Words
-11. Object Pronouns (<a href="https://www.grammar.cl/Notes/Object_Pronouns.htm">reference</a>)
-12. Possessive Pronouns (<a href="https://www.grammar.cl/Notes/Possessive_Pronouns.htm">reference</a>)
+11. Object Pronouns
+12. Possessive Pronouns
 13. Future Simple (To Be + going to) (<a href="https://www.grammar.cl/Notes/Future_Will_vs_Going.htm">reference</a>)
 14. Past Simple Tense (<a href="https://www.grammar.cl/english/past-tense.htm">reference</a>)
 15. Verb To Be (Past) (<a href="https://www.grammar.cl/Past/To_Be.htm">reference</a>)
