@@ -24,7 +24,7 @@ Wanted is used as the past tense for all subjects/pronouns.
 
 So you just have to learn one word to be able to use it in the past tense. In this case we just needed to learn the one word wanted which can be used for all subjects (or people).
 
-#### Regular Verbs
+### Regular Verbs
 
 To change a regular verb into its past tense form, we normally add –ED to the end of the verb.
 
@@ -35,7 +35,7 @@ To change a regular verb into its past tense form, we normally add –ED to the 
 
 There are some exceptions with a slight change in spelling which you can see below on the `Spelling -ED Ending Rules`
 
-#### Examples
+### Examples
 
 * Last night I **played** my guitar loudly and the neighbors **complained**.
 * She **kissed** me on the cheek.
@@ -43,7 +43,7 @@ There are some exceptions with a slight change in spelling which you can see bel
 * Angela **watched** TV all night.
 * John **wanted** to go to the museum.
 
-#### Negative sentences in the Past Tense
+### Negative sentences in the Past Tense
 
 We use `didn't` (`did not`) to make a negative sentence in the past tense.
 
@@ -58,7 +58,7 @@ Compare the following examples:
 * *Present*: He **doesn't** speak Japanese.
 * *Past*: He **didn't** speak Japanese.
 
-#### Questions in the Past Tense
+### Questions in the Past Tense
 
 We use `did` to make a question in the past tense.
 
@@ -78,7 +78,7 @@ We can also use a question word (Who, What, Why etc.) before DID to ask for more
 * When did you study? – I studied last night.
 * Where did you study? – I studied at the library.
 
-##### Short Answers
+#### Short Answers
 
 As is the case with any verb tense in English, it is generally possible to give short answers to a question. This is certainly the case for questions in the *Past Tense*.
 
@@ -131,7 +131,7 @@ Remember that if the question starts with DID, you can give a short answer using
     </tbody>
 </table>
 
-#### Spelling -ED Ending Rules
+### Spelling -ED Ending Rules
 
 > Remember: Not all words that end in -ED are verbs in the past tense. Sometimes they are *Past Participles* or they could even be *Adjectives* ending in -ED. For now we will mostly use verbs in the *Past Tense* as examples though the same rules apply to all words ending in -ED
 
