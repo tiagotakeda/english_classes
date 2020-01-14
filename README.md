@@ -4,7 +4,7 @@ This is my repository of materials, including grammatical articles, exercises, e
 
 ## Updates
 
-jan-14-2020 - I've already spent some days organizing this repo and already have written some articles of the `basic` repo.
+* jan-14-2020 - I've already spent some days organizing this repo and already have written some articles of the `basic` repo.
 
 ## Useful links:
 
