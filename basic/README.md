@@ -14,8 +14,8 @@
 10. Question Words
 11. Object Pronouns
 12. Possessive Pronouns
-13. Future Simple (To Be + going to) (<a href="https://www.grammar.cl/Notes/Future_Will_vs_Going.htm">reference</a>)
-14. Past Simple Tense (<a href="https://www.grammar.cl/english/past-tense.htm">reference</a>)
+13. Future Simple (To Be + going to)
+14. Past Simple Tense 
 15. Verb To Be (Past) (<a href="https://www.grammar.cl/Past/To_Be.htm">reference</a>)
 16. Zero Conditional (<a href="https://www.grammar.cl/english/zero-conditional.htm">reference</a>)
 17. Adverbs Spelling -LY (<a href="https://www.grammar.cl/Basic/Adverbs_Spelling_LY.htm">reference</a>)
