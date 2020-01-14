@@ -1,8 +1,8 @@
 # Private Classes Resources and Materials
 
-This is my repository of materials, including grammatical articles, exercises, etc, so it gets easier if I need to give private classes to anyone.
+This is my repository of materials. It includes grammatical articles, exercises, etc, so it gets easier if I need to give private classes to anyone.
 
-I opening this repository so **anyone** perhaps find something useful in this repository, for teaching or learning.
+I'm opening this repository so **anyone** perhaps find something useful in this repository, for teaching or learning.
 
 ## Updates
 
