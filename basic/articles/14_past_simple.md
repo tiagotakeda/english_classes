@@ -133,3 +133,178 @@ Remember that if the question starts with DID, you can give a short answer using
 
 #### Spelling -ED Ending Rules
 
+> Remember: Not all words that end in -ED are verbs in the past tense. Sometimes they are *Past Participles* or they could even be *Adjectives* ending in -ED. For now we will mostly use verbs in the *Past Tense* as examples though the same rules apply to all words ending in -ED
+
+**1. The general rule when changing a word (or verb) into its -ED form is just to add -ED to the end of it.**
+
+<table>
+    <tbody>
+        <tr>
+            <th><center>Infinitive</center></th>
+            <th><center>Simple Past</center></th>
+        </tr>
+        <tr>
+            <td><center>to play</center></td>
+            <td><center>played</center></td>
+        </tr>
+        <tr>
+            <td><center>to wait</center></td>
+            <td><center>waited</center></td>
+        </tr>
+        <tr>
+            <td><center>to work</center></td>
+            <td><center>worked</center></td>
+        </tr>
+        <tr>
+            <td><center>to rain</center></td>
+            <td><center>rained</center></td>
+        </tr>
+    </tbody>
+</table>
+
+* He **played** with his dog in the backyard.
+* I **waited** for them to invite me.
+* She **worked** until late last night.
+* It **rained** all day.
+
+**2. If a word ends in an -E we just add the -D to the end.**
+
+<table>
+    <tbody>
+        <tr>
+            <th><center>Infinitive</center></th>
+            <th><center>Simple Past</center></th>
+        </tr>
+        <tr>
+            <td><center>to live</center></td>
+            <td><center>lived</center></td>
+        </tr>
+        <tr>
+            <td><center>to love</center></td>
+            <td><center>loved</center></td>
+        </tr>
+        <tr>
+            <td><center>to smile</center></td>
+            <td><center>smiled</center></td>
+        </tr>
+        <tr>
+            <td><center>to dance</center></td>
+            <td><center>danced</center></td>
+        </tr>
+    </tbody>
+</table>
+
+* I **lived** in Japan for two years and then **moved** to Thailand.
+* I **loved** the surprise you had for me.
+* He **smiled** when he saw his wife come through the door.
+* They **danced** until their feet hurt.
+
+**3. If the word ends in a *Consonant + Vowel + Consonant*, we double the final consonant and add -ED.**
+
+<table>
+    <tbody>
+        <tr>
+            <th><center>Infinitive</center></th>
+            <th><center>Simple Past</center></th>
+        </tr>
+        <tr>
+            <td><center>to stop</center></td>
+            <td><center>stopped</center></td>
+        </tr>
+        <tr>
+            <td><center>to admit</center></td>
+            <td><center>admitted</center></td>
+        </tr>
+        <tr>
+            <td><center>to plan</center></td>
+            <td><center>planned</center></td>
+        </tr>
+        <tr>
+            <td><center>to refer</center></td>
+            <td><center>referred</center></td>
+        </tr>
+        <tr>
+            <td><center>to commit</center></td>
+            <td><center>committed</center></td>
+        </tr>
+    </tbody>
+</table>
+
+* The policeman **stopped** the thief from escaping.
+* He **admitted** that he was wrong.
+* We **planned** a surprise birthday party for our friend.
+* I **referred** the students to the website where they could practice some more.
+* They **committed** a serious crime and will end up in jail.
+
+**4. If a two-syllable verb ends in a *Consonant + Vowel + Consonant*, we DO NOT double the final consonant when the stress is on the FIRST syllable.**
+
+<table>
+    <tbody>
+        <tr>
+            <th><center>Infinitive</center></th>
+            <th><center>Simple Past</center></th>
+        </tr>
+        <tr>
+            <td><center>to happen</center></td>
+            <td><center>happened</center></td>
+        </tr>
+        <tr>
+            <td><center>to enter</center></td>
+            <td><center>entered</center></td>
+        </tr>
+        <tr>
+            <td><center>to offer</center></td>
+            <td><center>offered</center></td>
+        </tr>
+        <tr>
+            <td><center>to suffer</center></td>
+            <td><center>suffered</center></td>
+        </tr>
+        <tr>
+            <td><center>to travel</center></td>
+            <td><center>traveled</center></td>
+        </tr>
+        <tr>
+            <td><center>to marvel</center></td>
+            <td><center>marveled</center></td>
+        </tr>
+    </tbody>
+</table>
+
+* What **happened**?
+* I **entered** through the back door.
+* She was **offered** a new position with a higher salary.
+* Many people are **suffered** from a lack of food and water.
+* I **traveled** around South America in 2012.
+* Her beauty **marveled** us.
+
+**5. BUT, we DO NOT double the final consonant when the word ends in W, X or Y or when the final syllable is not stressed.**
+
+<table>
+    <tbody>
+        <tr>
+            <th><center>Infinitive</center></th>
+            <th><center>Simple Past</center></th>
+        </tr>
+        <tr>
+            <td><center>to fix</center></td>
+            <td><center>fixed</center></td>
+        </tr>
+        <tr>
+            <td><center>to enjoy</center></td>
+            <td><center>enjoyed</center></td>
+        </tr>
+        <tr>
+            <td><center>to snow</center></td>
+            <td><center>snowed</center></td>
+        </tr>
+        <tr>
+            <td><center>to suffer</center></td>
+            <td><center>suffered</center></td>
+        </tr>
+    </tbody>
+</table>
+
+* He **fixed** his bike.
+* We **enjoyed** our time in the North of Chile.
+* It **snowed** yesterday.
