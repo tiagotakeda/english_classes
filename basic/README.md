@@ -16,8 +16,8 @@
 12. Possessive Pronouns
 13. Future Simple (To Be + going to)
 14. Past Simple Tense
-15. Verb To Be (Past) (<a href="https://www.grammar.cl/Past/To_Be.htm">reference</a>)
-16. Zero Conditional (<a href="https://www.grammar.cl/english/zero-conditional.htm">reference</a>)
+15. Verb To Be (Past)
+16. Zero Conditional
 17. Adverbs Spelling -LY (<a href="https://www.grammar.cl/Basic/Adverbs_Spelling_LY.htm">reference</a>)
 18. Prepositions 1 (<a href="https://www.grammar.cl/Intermediate/Prepositions/List.htm">reference</a>)
 19. Adverbs of Frequency (<a href="https://www.grammar.cl/Basic/Adverbs_Frequency.htm">reference</a>)
