@@ -7,7 +7,7 @@ It refers to a general situation that always happen (for example in the rules of
 
 The basic structure of a Zero Condictional is: The first part is in the present simple tense and the second part is in the present simple tense too.
 
-##### Examples
+#### Examples
 
 * If you put water in the freezer, it becomes ice.
 * If you stand in the rain, you get wet.
@@ -26,7 +26,7 @@ We can also reverse the order and use:
 
 Notice how the comma is not necessary with this word order.
 
-#### IF / WHEN
+### IF / WHEN
 We can often use **WHEN** instead of **IF** and it has the same meaning.
 
 * **If** you keep milk in the fridge, it lasts longer.
