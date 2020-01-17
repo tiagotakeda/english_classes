@@ -18,8 +18,8 @@
 14. Past Simple Tense
 15. Verb To Be (Past)
 16. Zero Conditional
-17. Adverbs Spelling -LY (<a href="https://www.grammar.cl/Basic/Adverbs_Spelling_LY.htm">reference</a>)
-18. Prepositions 1 (<a href="https://www.grammar.cl/Intermediate/Prepositions/List.htm">reference</a>)
+17. Adverbs Spelling -LY
+18. Prepositions 1
 19. Adverbs of Frequency (<a href="https://www.grammar.cl/Basic/Adverbs_Frequency.htm">reference</a>)
 
 <!-- (<a href="">reference</a>) -->
