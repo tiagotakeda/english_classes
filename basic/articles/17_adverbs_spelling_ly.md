@@ -12,23 +12,23 @@ For adjectives that end in -l or -e, we simply add -ly:
     <tbody>
         <tr>
             <td>special</td>
-            <td>specially</td>
+            <td>special<strong>ly</td>
         </tr>
         <tr>
             <td>terminal</td>
-            <td>temrinally</td>
+            <td>temrinal<strong>ly</td>
         </tr>
         <tr>
             <td>literal</td>
-            <td>literally</td>
+            <td>literal<strong>ly</td>
         </tr>
         <tr>
             <td>nice</td>
-            <td>nicely</td>
+            <td>nice<strong>ly</td>
         </tr>
         <tr>
             <td>polite</td>
-            <td>politely</td>
+            <td>polite<strong>ly</td>
         </tr>
     </tbody>
 </table>
