@@ -56,6 +56,8 @@ For adjectives that end in -l or -e, we simply add -ly:
     </tbody>
 </table>
 
+<br/>
+
 #### Adverbs ending in -Y
 
 For adjectives that end in **-y**, we remove the **-y** and add **-ily**:
@@ -72,6 +74,8 @@ For adjectives that end in **-y**, we remove the **-y** and add **-ily**:
         </tr>
     </tbody>
 </table>
+
+<br/>
 
 #### Adverbs ending in -LE
 For adjectives that end in a **consonant + le** we remove the **-e** and add **-y**:
@@ -97,6 +101,8 @@ For adjectives that end in a **consonant + le** we remove the **-e** and add **-
     </tbody>
 </table>
 
+<br/>
+
 #### Adverbs ending in -IC
 If the adjective ends in **-ic**, we add **-ally**:
 
@@ -118,6 +124,8 @@ If the adjective ends in **-ic**, we add **-ally**:
 </table>
 
 <strong>Exception:</strong> public - publicly
+
+<br/>
 
 #### Irregular Adverbs
 Some adverbs are irregular:
