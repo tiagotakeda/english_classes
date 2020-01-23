@@ -63,6 +63,8 @@ These are called **adverbs of frequency** and include:
     </tbody>
 </table>
 
+<br/>
+
 #### Position of the *Adverb* in a Sentence
 
 An adverb of frequency goes before a main verb (except with To Be).
