@@ -2,7 +2,7 @@
 
 ## Prepositions 1
 
-The following is a list of prepositions in English:
+The following content is a list of prepositions in English:
 
 
 * Above
