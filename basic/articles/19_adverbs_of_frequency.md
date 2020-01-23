@@ -121,6 +121,8 @@ When we use an auxiliary verb (*have*, *will*, *must*, *might*, *could*, *would*
     </tbody>
 </table>
 
+<br/>
+
 We can also use the following adverbs at the start of a sentence:
 
 Usually, normally, often, frequently, sometimes, occasionally
@@ -140,6 +142,8 @@ We use *ever* in questions and negative statements:
 
 * Have you `ever` been to New Zealand?
 * I haven't `ever` been to Switzerland. (The same as 'I have never been Switzerland').
+
+<br/>
 
 ### DEFINITE Frequency
 

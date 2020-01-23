@@ -20,6 +20,6 @@
 16. Zero Conditional
 17. Adverbs Spelling -LY
 18. Prepositions 1
-19. Adverbs of Frequency (<a href="https://www.grammar.cl/Basic/Adverbs_Frequency.htm">reference</a>)
+19. Adverbs of Frequency
 
 <!-- (<a href="">reference</a>) -->
