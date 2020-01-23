@@ -52,7 +52,7 @@ The three main uses of *Can* are: **ability**, **possibility** and **permission*
 
 ### Could
 
-*Could* is similar to *Can* and often replaces *Can* in the past tense (although it doesn't always happen)
+*Could* is similar to *Can* and often replaces *Can* in the **past tense** (although it doesn't always happen)
 
 **1. To express ability in the past**
 
@@ -79,28 +79,20 @@ The three main uses of *Can* are: **ability**, **possibility** and **permission*
 
 **5. Couldn't: Sure that something is untrue**
 
-Just like can't, you can use couldn't when you are sure that something isn't true or real.
-
 * That couldn't be my cat meowing outside, it was hit by a car last week.
 * He couldn't have painted that. He has no artistic ability at all.
 
 **6. **Could** + have + past participle: To express a possibility in the past**
-
-To express that something was possible but did not happen.
 
 * We were lucky because it **could** have rained but it didn't.
 * Why did you do that? You **could** have broken your leg.
 
 **7. **Could** + have + past participle: Unrealised past ability**
 
-This is used to say that someone was able to do something, but they did not try to do it. Sometimes this is a form of criticism.
-
 * She **could** have married anyone she wanted to.
 * Why did you sit there doing nothing? You **could** have helped me.
 
 **8. **Could**: A conditional form of Can**
-
-*Would* + *Can* = *Could*. Note: Would be able to can replace could in the following examples.
 
 * If we had some oranges I could make you some fresh juice.
 * I could write the letter if you told me what to include.
