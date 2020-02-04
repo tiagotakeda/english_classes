@@ -10,7 +10,7 @@ The Present Perfect Tense is formed using the following structure:
 
 **Question**: `Have / Has` + `Subject` + `Past Participle`
 
-When do we use the Present Perfect Tense?
+### When do we use the Present Perfect Tense?
 
 **1. Unspecified point in the past**
 
