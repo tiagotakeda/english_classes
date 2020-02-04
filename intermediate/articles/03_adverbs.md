@@ -43,16 +43,16 @@ There are many types of adverbs, such as:
 
 * He speaks **clearly**.
 
-When there is an object, the **adverb** is usually placed after the verb + object:
+When there is an object, the **adverb** is usually placed after the *verb + object*:
 
 * I put the vase **carefully** on the table.
 
-However, adverbs are never positioned between the verb and the object.
+However, adverbs are **never** positioned between the **verb** and the **object**.
 
 * I read the book **quickly**. - (Correct)
 * I read **quickly** the book. - (Incorrect)
 
-Sometimes adverbs are placed at the beginning of a clause.
+Sometimes adverbs are placed at the **beginning** of a clause.
 
 * **Quickly**, I changed my opinion.
 
