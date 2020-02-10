@@ -6,7 +6,7 @@
 2. Adjectives ending in ED and ING
 3. Adverbs
 4. Present Perfect Tense
-5. All / Every / Each (<a href="https://www.grammar.cl/english/all-every-each.htm">reference</a>)
+5. All / Every / Each
 6. Another / Other / Others (<a href="https://www.grammar.cl/english/another-other-others.htm">reference</a>)
 7. Both / Neither / Either (<a href="https://www.grammar.cl/english/both-either-neither.htm">reference</a>)
 8. Comparatives (<a href="https://www.grammar.cl/Intermediate/Comparatives_Superlatives.htm">reference</a>)
